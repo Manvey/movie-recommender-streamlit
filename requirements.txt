@@ -1,0 +1,19 @@
+# Core
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+
+# NLP
+nltk
+
+# Streamlit components
+streamlit-option-menu
+st-click-detector
+
+# Image handling
+Pillow
+
+
+python-dotenv
