@@ -15,19 +15,6 @@ This project is a fully functional AI-based Movie Recommendation System that sug
 <img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/3970ff7a-d5a0-4887-9318-f61de11b6791" />
 <img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/9d26a4b1-a2c3-40c5-ae7f-1bc3d05de692" />
 
-## 🛠 Project Structure
-ai-movie-recommender-app/
-│
-├── main.py # Main Streamlit app script
-├── requirements.txt # Python dependencies
-├── data/ # Optional datasets or precomputed files
-│ ├── movies.csv
-│ ├── credits.csv
-│ ├── movie_dict.pkl
-│ └── similarity.pkl
-├── README.md # This file
-└── .gitignore
-
 ## ✨ How It Works
 - Loads movie metadata and precomputed similarity data.
 - User inputs a movie title.
