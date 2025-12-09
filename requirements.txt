@@ -15,5 +15,3 @@ st-click-detector
 # Image handling
 Pillow
 
-
-python-dotenv
