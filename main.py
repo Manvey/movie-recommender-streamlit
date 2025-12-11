@@ -5,7 +5,7 @@ from processing.display import Main
 # ----------------------------------------------------
 # Streamlit Configuration
 # ----------------------------------------------------
-st.set_page_config(layout="wide", page_title="Movie Recommender", page_icon="🎬")
+st.set_page_config(layout="wide", page_title="Movie Matrix", page_icon="🎬")
 
 # ----------------------------------------------------
 # Modern Premium Neon Glassmorphism UI
@@ -105,7 +105,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🎬 **Movie Recommender System**")
+st.title("🎬 **Movie Matrix - AI Movie Recommender System**")
 
 # ----------------------------------------------------
 # Session States
